@@ -1,2 +1,2 @@
 # npm-demo
-Experiment with creating an 8pm package
+Experiment with creating an NPM package
