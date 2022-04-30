@@ -1,6 +1,6 @@
 {
   "name": "@pogilvie/npm-demo",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Publish public scope package experiment",
   "main": "main.mjs",
   "scripts": {
