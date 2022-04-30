@@ -1,3 +1,4 @@
-import { hello } from './hello.mjs';
 
-console.log(hello('World'));
+export function hello(msg) {
+    return `Hello, ${msg}!`;
+}
