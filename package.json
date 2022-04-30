@@ -1,0 +1,23 @@
+{
+  "name": "@pogilvie/npm-demo",
+  "version": "0.0.1",
+  "description": "Experiment with publishing an npm package",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "node main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pogilvie/npm-demo.git"
+  },
+  "keywords": [
+    "Experiment",
+    "Demo"
+  ],
+  "author": "pogilvie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pogilvie/npm-demo/issues"
+  },
+  "homepage": "https://github.com/pogilvie/npm-demo#readme"
+}
