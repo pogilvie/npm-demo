@@ -1,7 +1,7 @@
 {
   "name": "@pogilvie/npm-demo",
   "version": "0.0.1",
-  "description": "Experiment with publishing an npm package",
+  "description": "Publish public scope package experiment",
   "main": "main.mjs",
   "scripts": {
     "test": "node main.mjs"
